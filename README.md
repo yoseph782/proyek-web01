@@ -1,2 +1,2 @@
 # proyek-web01
-uploud file website pertama
+Penjelasan singkat tentang website apa yang sedang kamu buat (misalnya: "Ini adalah website portofolio pribadi saya yang dibuat menggunakan HTML dan CSS").
